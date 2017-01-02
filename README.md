@@ -75,3 +75,6 @@ csvファイルは座標中心を原点(x,y)=(0,0)として最大±300の座標�
 
 
 [実行ファイル]: http://projectionball.jp/share/PBS.zip "実行ファイル"
+
+
+License -MIT
